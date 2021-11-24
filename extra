@@ -88,3 +88,11 @@ javascript     > Dynamic
     > all the links of JavaScript and css
 > body
     > all content that is visible to the user
+
+////
+inline (span, img, a)
+> they start in same line
+> only take the space which is required
+block (div,p,h1)
+> always start from new line
+> take whole row

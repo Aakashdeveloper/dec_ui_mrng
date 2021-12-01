@@ -120,6 +120,7 @@ styleTag
     color:orange,
     text-align:center
 }
+
 styleSheet
 {
     font-size:20px
@@ -138,3 +139,12 @@ h1{
 color name
 hex code
 rgb color
+
+////////Target element/////
+TagName >>>> a, p (it will target all the element by same tag name)
+Id(#) >>> to target something unique
+Class(.) >>>> to target group of element
+
+h1{
+    color:red
+}

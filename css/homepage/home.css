@@ -1,0 +1,44 @@
+body{
+    margin: auto;
+}
+
+#header{
+    height:60px;
+    background-color:#d2a08c
+}
+/* css for logo*/
+#icon{
+    font-size:30px;
+    color:#13648c;
+    margin-left: 1%;
+    margin-top: 0%;
+    font-weight: bold;
+    position:absolute;
+    margin-top: 5px;
+}
+#social{
+    float: right;
+    margin-right: 1%;
+}
+a{
+    text-decoration: none
+}
+.slogo{
+    height:50px;
+    width:50px;
+}
+
+#search{
+    height:400px;
+    background-image:url('images/foodWallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 400px;
+}
+#quicksearch{
+    height:500px;
+    border:2px solid orange;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 3%;
+}

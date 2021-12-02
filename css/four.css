@@ -8,13 +8,17 @@ body{
     background-color:rgb(61, 120, 143);
 }
 
+.mainDiv{
+    display: inline-block
+}
+
 .card{
     background-color:#1d5e86;
     height:450px; 
     width:25%;
-    float:left;
+    float: left;
     margin:3%;
-    overflow:scroll;
+    overflow: scroll;
     color:white
 }
 .cardHeading{

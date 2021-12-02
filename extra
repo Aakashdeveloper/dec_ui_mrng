@@ -148,3 +148,6 @@ Class(.) >>>> to target group of element
 h1{
     color:red
 }
+
+if content in all div is same use > display:inline block
+if content in all div is not same use > float:left

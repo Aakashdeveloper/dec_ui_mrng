@@ -85,9 +85,36 @@ select{
 
 #quicksearch{
     height:500px;
-    border:2px solid orange;
     width:80%;
     margin-left: 10%;
     margin-top: 3%;
 }
 
+.quickHeading{
+    display: block;
+    font-size:30px;
+    color: rgb(245, 142, 105);
+    margin-left: 2%; 
+}
+
+.quickSubHeading{
+    line-height: 3;
+    font-size:20px;
+    color: gray;
+    margin-left: 2%; 
+}
+
+
+.tileContainer{
+    height:300px;
+    width:30%;
+    border:2px solid red;
+    float: left;
+    margin-left: 2%;  
+    margin-top: 2%;
+}
+
+.tileComponent1>img{
+    width:100%;
+    height:180px
+}

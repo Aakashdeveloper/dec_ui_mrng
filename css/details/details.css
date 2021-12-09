@@ -42,7 +42,7 @@ a{
 
 #imgDiv{
     width: 45%;
-    height: 500px;
+    height: 420px;
     margin-top: 3%;
     margin-left: 2%;
     float: left;
@@ -59,4 +59,33 @@ a{
     margin-top: 1%;
     margin-left: 2%;
     float: left;
+}
+
+.checked{
+    color:green;
+}
+
+.icon{
+    display: inline-block;
+    margin-left:2%
+}
+
+.stock{
+    font-size: 33px;
+    color:green
+}
+.btn{
+    height: 40px;
+    width: 200px;
+    font-size:20px
+}
+
+.btn-checkout{
+    background-color:rgb(52, 201, 52);
+    color:white
+}
+
+.btn-atc{
+    background-color:rgb(243, 62, 62);
+    color:white
 }

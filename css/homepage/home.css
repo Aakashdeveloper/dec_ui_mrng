@@ -42,12 +42,30 @@ a{
     width:150px;
     background-color: white;
     border-radius:50%;
-    margin-left:43%;
+    margin-left:0%;
     margin-top:2%;
     position: absolute;
     text-align: center;
-    font-size:80px
+    font-size:80px;
+    animation: movelogo 20s infinite;
 }
+/* 20/25 > 8s*/
+
+@keyframes movelogo {
+    0% {margin-left: 43%}
+    25% {margin-left: 45%}
+    50% {margin-left: 48%}
+    75% {margin-left: 45%}
+    100% {margin-left: 43%}
+}
+
+
+/*
+#logo:hover{
+    transition: margin-left 5s;
+    margin-left:43%;
+}*/
+
 
 #logo > span{
     margin-top: 18%;
@@ -99,6 +117,11 @@ select{
     font-weight: bold;
 }
 
+.quickHeading:hover{
+    color:red;
+    font-size:35px;
+}
+
 .quickSubHeading{
     line-height: 3;
     font-size:20px;
@@ -115,6 +138,24 @@ select{
     margin-left: 2%;  
     margin-top: 2%;
     border-radius:20%;
+    animation: danceContainer 10s infinite;
+}
+
+@keyframes danceContainer {
+    0% { transform: rotate(-5deg)}
+    25% { transform: rotate(0deg)}
+    50% { transform: rotate(5deg)}
+    75% { transform: rotate(0deg)}
+    100% { transform: rotate(-5deg)}
+}
+
+
+.tileContainer:hover{
+    /*transform: scale(1.1);
+    transform: rotate(5deg);
+    transform: skewY(15deg);
+    */
+    transform: scale(1.1);
 }
 
 .tileComponent1>img{

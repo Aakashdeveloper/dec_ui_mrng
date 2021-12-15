@@ -26,3 +26,12 @@
     height:200px;
     background-color:rgb(30, 55, 65);
 }
+
+.glyphicon-glass{
+    font-size:30px;
+    color:skyblue
+}
+.glyphicon-trash{
+    font-size:30px;
+    color:red
+}

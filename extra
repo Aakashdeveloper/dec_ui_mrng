@@ -19,11 +19,12 @@ javascript     > Dynamic
 > DataTypes
 > variable
 > alert console prompt
+////////////////
 > Operations
-
 > String literals
-> Math
 > String Operations
+
+> Math
 > let, const
 > localstorage
 > sessionStorage

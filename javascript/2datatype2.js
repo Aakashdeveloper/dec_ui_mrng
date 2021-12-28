@@ -75,3 +75,7 @@ Number(b)
 NaN
 Number(c)
 NaN
+
+
+true
+"true"

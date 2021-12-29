@@ -2,6 +2,8 @@ https://code.visualstudio.com/download
 https://github.com/ (create account)
 https://github.com/Aakashdeveloper (follow)
 https://git-scm.com/downloads (install)
+https://nodejs.org/en/ (install)
+https://www.netlify.com/ (create account)
 
 extensions
 > vscode-icons
@@ -23,18 +25,17 @@ javascript     > Dynamic
 > String literals
 > String Operations
 > Math
-////////////////
 > let, const
 > localstorage
 > sessionStorage
 > cookies
-
+> Date
+////////////////
 > condition
 > if else
 > ternery Operations
 
 
-> Date
 > switch
 > array
 

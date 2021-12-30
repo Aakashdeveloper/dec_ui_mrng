@@ -30,15 +30,13 @@ javascript     > Dynamic
 > sessionStorage
 > cookies
 > Date
-////////////////
 > condition
 > if else
 > ternery Operations
-
-
+////////////////
 > switch
-> array
 
+> array
 > Rest
 > loops
 > Functions
@@ -191,3 +189,6 @@ md > 768px;
 lg > 992px;
 xl > 1200px
 xxl > 1400px
+
+var a = "application    security   lighthouse  ."
+a.replace(/  /g,'')

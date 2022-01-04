@@ -14,4 +14,6 @@ a.getFullYear()
 > month start with 0 as jan and 11 as dec
 > day start with 0 as sunday and 1 as monday
 
-tolocal
+var a = new Date()
+a.toLocaleString(`default`, {month:'long'})
+'January'

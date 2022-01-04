@@ -9,3 +9,24 @@ git push -u origin master
 git add .
 git commit -m "first commit"
 git push
+
+
+//copy contents
+https://github.com/Aakashdeveloper/Aakashdeveloper/blob/master/README.md
+
+//clone
+git clone https://github.com/Aakashdeveloper/dec_ui_morning_21
+git pull
+
+// create branch
+git checkout -b branchname
+git branch
+git status
+
+// switch branch
+git checkout branchname
+git push -u origin homepage
+
+//
+go to master > take pull > make new branch
+> merge with master > for new feature again come back to master

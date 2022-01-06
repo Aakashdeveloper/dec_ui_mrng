@@ -142,3 +142,10 @@ city.flat()
 (8) ['Venice', 'Delhi', 'Red', Array(3), 'Yellow', 'Orange', 'Green', 'Dubai']0: "Venice"1: "Delhi"2: "Red"3: (3) ['BMW', 'Audi', 'Merc']4: "Yellow"5: "Orange"6: "Green"7: "Dubai"length: 8[[Prototype]]: Array(0)
 city.flat(2)
 (10) ['Venice', 'Delhi', 'Red', 'BMW', 'Audi', 'Merc', 'Yellow', 'Orange', 'Green', 'Dubai']
+
+var name=["hari","siri","giri"]
+undefined
+name.length
+14
+name[0]
+'h'

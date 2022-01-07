@@ -149,3 +149,8 @@ name.length
 14
 name[0]
 'h'
+
+var a = ['a','b','c',1]
+var b = [5,6,'r','tt']
+a+b
+'a,b,c,15,6,r,tt'

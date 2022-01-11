@@ -1,0 +1,33 @@
+var [a,b] = [10,20]
+a
+10
+b
+20
+
+var a = [10,20,30]
+var [c,d] = a
+
+c
+10
+d
+20
+
+
+function test(){
+    return [1,2,3]
+}
+
+let [g,h] = test()
+g
+1
+h
+2
+
+var y = {1:10,m:20}
+undefined
+var {1:abc,m:def} =y
+undefined
+abc
+10
+def
+20

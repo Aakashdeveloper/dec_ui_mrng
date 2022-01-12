@@ -46,7 +46,6 @@ javascript     > Dynamic
 > destructuring
 > Closures
 > Hoisting
-////////////////
 > object 
 > JSON
 > Es6
@@ -54,11 +53,11 @@ javascript     > Dynamic
     > import export
 > package.JSON
 > npm
+////////////////
 > this
 > Es6
     > classes
 > Prototypes
-
 
 > DoM
 > Calc
@@ -191,3 +190,18 @@ xxl > 1400px
 
 var a = "application    security   lighthouse  ."
 a.replace(/  /g,'')
+
+
+npm > node package manager
+
+package.json
+> all the meta data(description,version,author)
+> script (start,test,build)
+> all the packages we want to use
+
+//// step to generate package.json /////
+** Node Js must be install
+> go inside the folder using cmd/terminal
+> npm init -y
+
+npm i @babel/core @babel/preset-env @babel/register

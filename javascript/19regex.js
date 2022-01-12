@@ -60,3 +60,10 @@ var email = "a@a.com"
 email.match("^([a-zA-Z0-9]+)@([a-zA-Z0-9]+)\.([a-zA-Z]{2,5})$")
 (4) ['a@a.com', 'a', 'a', 'com', index: 0, input: 'a@a.com', groups: undefined]
 
+
+
+var a = "9876543342"
+var b = "******3342"
+var c = a.slice(0,6)
+'*****'+a.replace(c,'*')
+'******3342'

@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "id": "6395",
+      "fname": "John",
+      "email": "j@gmail.com",
+      "pwd": "12345679",
+      "cpwd": "12345679",
+      "city": "Mumbai"
+    },
+    {
+      "id": "7081",
+      "fname": "Nikita",
+      "email": "n@n.com",
+      "pwd": "12345678",
+      "cpwd": "12345678",
+      "city": "Pune"
+    }
+  ]
+}

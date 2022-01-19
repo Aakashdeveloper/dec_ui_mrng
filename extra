@@ -63,20 +63,19 @@ javascript     > Dynamic
 > Event
 > dummyAPi jsonserver
 > dark/light mode
-////////////////
 > currenyConvertor
 > promis
 > async await
 > Geolocation
-
-> Dynamic DropDown
 > screen
 > set interval
 > set timeout
-> debouncing
-
+////////////////
 > Progress bar
+> debouncing
+> Dynamic DropDown
 > Call/Apply
+
 > Basic Jquery
 
 > DataTables
@@ -212,3 +211,6 @@ npm i @babel/core @babel/preset-env @babel/register
 > open cmd/terminal
 > go inside the folder
 > npx json-server --watch data.json --port 7900
+
+
+https://github.com/trekhleb/javascript-algorithms

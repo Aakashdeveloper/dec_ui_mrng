@@ -70,15 +70,14 @@ javascript     > Dynamic
 > screen
 > set interval
 > set timeout
-////////////////
 > Progress bar
 > debouncing
-> Dynamic DropDown
 > Call/Apply
-
+////////////////
+> Dynamic DropDown
 > Basic Jquery
-
 > DataTables
+
 > Weather application
 > ajax
 > sets
@@ -214,3 +213,4 @@ npm i @babel/core @babel/preset-env @babel/register
 
 
 https://github.com/trekhleb/javascript-algorithms
+

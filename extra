@@ -76,7 +76,6 @@ javascript     > Dynamic
 > Dynamic DropDown
 > Basic Jquery
 > DataTables
-////////////////
 > Weather application
 > ajax
 > sets
@@ -213,3 +212,4 @@ npm i @babel/core @babel/preset-env @babel/register
 
 https://github.com/trekhleb/javascript-algorithms
 
+https://github.com/Aakashdeveloper/JavaScript-Interview-Question
